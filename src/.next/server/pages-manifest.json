@@ -1,0 +1,22 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.js",
+  "/add-product": "pages/add-product.js",
+  "/add-featehr": "pages/add-featehr.js",
+  "/api/hello": "pages/api/hello.js",
+  "/auth/view-all-user": "pages/auth/view-all-user.js",
+  "/auth/profile": "pages/auth/profile.js",
+  "/": "pages/index.js",
+  "/add-to-cart": "pages/add-to-cart.js",
+  "/products/order": "pages/products/order.js",
+  "/profile": "pages/profile.js",
+  "/sign-in": "pages/sign-in.js",
+  "/sign-up": "pages/sign-up.js",
+  "/product/[productId]": "pages/product/[productId].js",
+  "/products/view-all-products": "pages/products/view-all-products.js",
+  "/build-pc": "pages/build-pc.js",
+  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js",
+  "/product-details/[productId]": "pages/product-details/[productId].js",
+  "/_error": "pages/_error.js"
+}
